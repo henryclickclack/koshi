@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Kōshi (格子): shoji-style lattice, one cell lit in vermilion -->
+  <rect width="128" height="128" rx="28" fill="#1f1b1c"/>
+  <rect x="22" y="22" width="84" height="84" rx="6" fill="#efe4cc"/>
+  <g fill="#1f1b1c">
+    <rect x="28" y="28" width="20" height="20" rx="2"/>
+    <rect x="54" y="28" width="20" height="20" rx="2"/>
+    <rect x="28" y="54" width="20" height="20" rx="2"/>
+    <rect x="54" y="54" width="20" height="20" rx="2"/>
+    <rect x="80" y="54" width="20" height="20" rx="2"/>
+    <rect x="28" y="80" width="20" height="20" rx="2"/>
+    <rect x="54" y="80" width="20" height="20" rx="2"/>
+    <rect x="80" y="80" width="20" height="20" rx="2"/>
+  </g>
+  <rect x="80" y="28" width="20" height="20" rx="2" fill="#e5432f"/>
+</svg>

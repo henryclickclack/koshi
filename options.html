@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Kōshi options</title>
+  <style>
+    body { font: 13px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; padding: 12px 16px; }
+    .row { display: flex; align-items: center; gap: 10px; margin: 8px 0; }
+    input[type="color"] { width: 44px; height: 28px; padding: 0; border: none; background: none; }
+    .hint { color: #6e6e73; margin-top: 12px; }
+  </style>
+</head>
+<body>
+  <div class="row">
+    <label><input type="checkbox" id="custom"> Custom panel background</label>
+    <input type="color" id="color" value="#281c1f">
+  </div>
+  <p class="hint">Saved for this profile (space) only. Unchecked = theme default.</p>
+  <script src="options.js"></script>
+</body>
+</html>

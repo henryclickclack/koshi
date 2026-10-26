@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- Simplified 2x2 lattice on whole pixels so it stays crisp at 16px -->
+  <rect width="16" height="16" rx="3" fill="#1f1b1c" shape-rendering="auto"/>
+  <rect x="2" y="2" width="12" height="12" fill="#efe4cc"/>
+  <g fill="#1f1b1c">
+    <rect x="3" y="3" width="4" height="4"/>
+    <rect x="3" y="9" width="4" height="4"/>
+    <rect x="9" y="9" width="4" height="4"/>
+  </g>
+  <rect x="9" y="3" width="4" height="4" fill="#e5432f"/>
+</svg>
